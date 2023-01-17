@@ -6,7 +6,6 @@
   <img align="center" alt="Noah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
 
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=noahpombos&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=noahpombos&show_icons=true&theme=tokyonight" />
